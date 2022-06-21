@@ -1,5 +1,6 @@
 ## Data Types
 
+
 # UPDATE
 We've moved away from repl.it for coding exercises.
 Check out the new exercises on Coding Rooms with automated submissions.
